@@ -32,15 +32,13 @@ function enviar() {
 		</tr>
 	</thead>
 	<tbody>
-		<tr><td>LSA-105</td><td>LEGISLACIÓN LABORAL Y SEGURIDAD SOCIAL APLICADA</td><td>1</td><td>1C</td><td>52</td><td>61</td><td>64</td><td>69</td><td>0</td><td>0</td></tr>
-		<tr><td>INT-109</td><td>INGLÉS TÉCNICO                                 </td><td>1</td><td>1C</td><td>50</td><td>62</td><td>67</td><td>66</td><td>0</td><td>0</td></tr>
-		<tr><td>CON-101</td><td>CONTABILIDAD I                                 </td><td>1</td><td>1C</td><td>61</td><td>65</td><td>63</td><td>65</td><td>0</td><td>0</td></tr>
-		<tr><td>MAF-102</td><td>MATEMÁTICA FINANCIERA                          </td><td>1</td><td>1C</td><td>49</td><td>64</td><td>65</td><td>67</td><td>0</td><td>0</td></tr>
-		<tr><td>ICO-103</td><td>INFORMÁTICA CONTABLE                           </td><td>1</td><td>1C</td><td>59</td><td>65</td><td>61</td><td>64</td><td>0</td><td>0</td></tr>
-		<tr><td>EGA-106</td><td>ECONOMÍA GENERAL APLICADA                      </td><td>1</td><td>1C</td><td>61</td><td>61</td><td>62</td><td>63</td><td>0</td><td>0</td></tr>
-		<tr><td>DCM-107</td><td>DOCUMENTOS COMERCIALES Y MERCANTILES           </td><td>1</td><td>1C</td><td>68</td><td>66</td><td>60</td><td>61</td><td>0</td><td>0</td></tr>
-		<tr><td>ESA-108</td><td>ESTADÍSTICA APLICADA                           </td><td>1</td><td>1C</td><td>61</td><td>67</td><td>65</td><td>63</td><td>0</td><td>0</td></tr>
-		<tr><td>ADG-104</td><td>ADMINISTRACIÓN GENERAL                         </td><td>1</td><td>1C</td><td>54</td><td>60</td><td>63</td><td>69</td><td>0</td><td>0</td></tr>
+		<tr><td>SIT-207</td><td>SISTEMA TRIBUTARIO                  </td><td>2</td><td>2D</td><td>68</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+		<tr><td>COC-202</td><td>CONTABILIDAD DE COSTOS I            </td><td>2</td><td>2D</td><td>72</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+		<tr><td>EMP-206</td><td>EMPRENDIMIENTO PRODUCTIVO           </td><td>2</td><td>2D</td><td>80</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+		<tr><td>COS-203</td><td>CONTABILIDAD DE SOCIEDADES          </td><td>2</td><td>2D</td><td>70</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+		<tr><td>CDS-204</td><td>CONTABILIDAD DE SEGUROS             </td><td>2</td><td>2D</td><td>67</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+		<tr><td>CON-201</td><td>CONTABILIDAD II                     </td><td>2</td><td>2D</td><td>75</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+		<tr><td>CBC-205</td><td>CONTABILIDAD BANCARIA Y COOPERATIVAS</td><td>2</td><td>2D</td><td>69</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
 	</tbody>
 </table>
 </div>
