@@ -32,13 +32,13 @@ function enviar() {
 		</tr>
 	</thead>
 	<tbody>
-		<tr><td>SIT-207</td><td>SISTEMA TRIBUTARIO                  </td><td>2</td><td>2D</td><td>68</td><td>61</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
-		<tr><td>COC-202</td><td>CONTABILIDAD DE COSTOS I            </td><td>2</td><td>2D</td><td>72</td><td>63</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
-		<tr><td>EMP-206</td><td>EMPRENDIMIENTO PRODUCTIVO           </td><td>2</td><td>2D</td><td>80</td><td>67</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
-		<tr><td>COS-203</td><td>CONTABILIDAD DE SOCIEDADES          </td><td>2</td><td>2D</td><td>70</td><td>61</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
-		<tr><td>CDS-204</td><td>CONTABILIDAD DE SEGUROS             </td><td>2</td><td>2D</td><td>67</td><td>60</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
-		<tr><td>CON-201</td><td>CONTABILIDAD II                     </td><td>2</td><td>2D</td><td>75</td><td>61</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
-		<tr><td>CBC-205</td><td>CONTABILIDAD BANCARIA Y COOPERATIVAS</td><td>2</td><td>2D</td><td>69</td><td>59</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+		<tr><td>SIT-207</td><td>SISTEMA TRIBUTARIO                  </td><td>2</td><td>2D</td><td>68</td><td>61</td><td>61</td><td>0</td><td>0</td><td>0</td></tr>
+		<tr><td>COC-202</td><td>CONTABILIDAD DE COSTOS I            </td><td>2</td><td>2D</td><td>72</td><td>63</td><td>60</td><td>0</td><td>0</td><td>0</td></tr>
+		<tr><td>EMP-206</td><td>EMPRENDIMIENTO PRODUCTIVO           </td><td>2</td><td>2D</td><td>80</td><td>67</td><td>59</td><td>0</td><td>0</td><td>0</td></tr>
+		<tr><td>COS-203</td><td>CONTABILIDAD DE SOCIEDADES          </td><td>2</td><td>2D</td><td>70</td><td>61</td><td>58</td><td>0</td><td>0</td><td>0</td></tr>
+		<tr><td>CDS-204</td><td>CONTABILIDAD DE SEGUROS             </td><td>2</td><td>2D</td><td>67</td><td>60</td><td>60</td><td>0</td><td>0</td><td>0</td></tr>
+		<tr><td>CON-201</td><td>CONTABILIDAD II                     </td><td>2</td><td>2D</td><td>75</td><td>61</td><td>62</td><td>0</td><td>0</td><td>0</td></tr>
+		<tr><td>CBC-205</td><td>CONTABILIDAD BANCARIA Y COOPERATIVAS</td><td>2</td><td>2D</td><td>69</td><td>59</td><td>60</td><td>0</td><td>0</td><td>0</td></tr>
 	</tbody>
 </table>
 </div>
